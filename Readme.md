@@ -10,7 +10,7 @@ The goal of this project was to explore the basics of Natural Language Processin
 
 1.  **Clone the repository:**
     ```
-    git clone https://github.com/your-username/sentiment-analyzer.git
+    git clone https://github.com/hridhaan-2008/sentiment-analyzer.git
     ```
 2.  **Install the necessary dependencies:**
     ```
